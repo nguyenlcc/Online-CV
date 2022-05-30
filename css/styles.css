@@ -10100,12 +10100,16 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #ff5d5d;
 }
 
 .dev-icons {
   font-size: 3rem;
 }
+.dev-icons .dev-icon:hover {
+  color: #ff5d5d;
+}
+
 
 section.resume-section {
   display: flex;
