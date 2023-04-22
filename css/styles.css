@@ -10157,6 +10157,6 @@ section.resume-section .resume-section-content {
 iframe {
   overflow:hidden;
   width: 80%;
-  height: 65vh;
+  aspect-ratio: 16/9;
   border: 0;
   }
